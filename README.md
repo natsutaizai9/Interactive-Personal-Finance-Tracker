@@ -7,4 +7,4 @@ IPFT helps you:
 - Analyze and budget your spending using a spreadsheet and formulas
 
 [![](https://raw.githubusercontent.com/natsutaizai9/Interactive-Personal-Finance-Tracker/main/FT%20Screenshots/Pft%20scr%20(1).png)
-[![] (https://github.com/natsutaizai9/Interactive-Personal-Finance-Tracker/blob/main/FT%20Screenshots/Pft%20scr%20(1).png?raw=true)
+
