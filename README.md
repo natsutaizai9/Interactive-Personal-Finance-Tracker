@@ -8,6 +8,12 @@ IPFT helps you:
 - Keep track of your account balances
 - Aggregate transactions from all your banking institutions, including checking accounts, savings accounts, and credit cards
 - Analyze and budget your spending using a spreadsheet and formulas
+- Created interactive dashboard to track and analyse online sales data 
+- Used complex paramaters to drill down in worksheet and customization using filters and slicers
+- Created connection, join new tables , calculations to manipulate data and enable user driven
+  paramaters for visualizations 
+- Used different types of customized visualiztion (bar chart, pie chart ,donut chart , clustered
+bar chart ,scatter chart, line chart, area chart , map ,slicers,etc  )
 
 
 ## Tools Used
